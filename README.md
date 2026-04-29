@@ -15,6 +15,10 @@ A fully functional e-commerce website built during my internship at Internee.pk.
 |--------------|-----------|
 | ![Earphones](screenshots/earphones.png) | ![Tax Calculation](screenshots/tax-checkout.png) |
 
+| Order Confirmation |.
+|--------------|-----------|
+| ![Order](screenshots/order-received.png) 
+
 ## ✨ Features
 
 - ✅ WooCommerce store setup
